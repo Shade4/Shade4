@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Jai Agrawal
 
-🎓 Cybersecurity Student | CEH Candidate  
+🎓 Cybersecurity Student  
 🔐 Aspiring Penetration Tester | Ethical Hacker  
 🏴‍☠️ CTF Player | Security Research Enthusiast  
 
