@@ -136,10 +136,6 @@ I actively practice in **lab-based and CTF environments**, working across **web,
 🛡️ Defensive Awareness    [██████░░░░] 60%
 ```
 
-</div>
-
-</div>
-
 ---
 
 📫 **Always learning. Always hacking (ethically).**
