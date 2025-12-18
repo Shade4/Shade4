@@ -1,11 +1,5 @@
 ## 👋 Hi, I'm Jai Agrawal
 
-🎓 Cybersecurity Student  
-🔐 Aspiring Penetration Tester | Ethical Hacker  
-🏴‍☠️ CTF Player | Security Research Enthusiast  
-
----
-
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Jai+Agrawal;Cybersecurity+Student;Aspiring+Penetration+Tester;CTF+Player+%7C+Ethical+Hacker" />
@@ -123,8 +117,30 @@ I actively practice in **lab-based and CTF environments**, working across **web,
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiAgrawal&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- Custom Security Progress -->
 
+<div align="center">
+
+### 🧭 Security Progress Overview
+
+| Area                      | Focus Level     |
+| ------------------------- | --------------- |
+| 🕷️ Web Exploitation      | █████████░░ 90% |
+| 🌐 Network Pentesting     | ████████░░░ 80% |
+| 🏴‍☠️ CTF Challenges      | █████████░░ 85% |
+| 🔍 Vulnerability Research | ███████░░░░ 70% |
+| 🛡️ Defensive Awareness   | ██████░░░░░ 60% |
+
+</div>
+
+</div>
+
+---
+
+📫 **Always learning. Always hacking (ethically).**
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD1&height=120&section=footer" />
 </div>
 
 ---
