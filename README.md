@@ -112,35 +112,32 @@ I actively practice in **lab-based and CTF environments**, working across **web,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JaiAgrawal&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaiAgrawal&theme=tokyonight&hide_border=true" height="165" />
+<!-- Main GitHub stats card -->
 
-<br />
+<img src="https://github-readme-stats.vercel.app/api?username=JaiAgrawal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&ring_color=00FFD1" height="170" />
 
-<!-- Custom Security Progress -->
+<!-- Streak stats (stable endpoint) -->
 
-<div align="center">
-
-### 🧭 Security Progress Overview
-
-| Area                      | Focus Level     |
-| ------------------------- | --------------- |
-| 🕷️ Web Exploitation      | █████████░░ 90% |
-| 🌐 Network Pentesting     | ████████░░░ 80% |
-| 🏴‍☠️ CTF Challenges      | █████████░░ 85% |
-| 🔍 Vulnerability Research | ███████░░░░ 70% |
-| 🛡️ Defensive Awareness   | ██████░░░░░ 60% |
-
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=JaiAgrawal&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
 
 </div>
 
 ---
 
-📫 **Always learning. Always hacking (ethically).**
+## 🧭 Security Progress Overview
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD1&height=120&section=footer" />
+> *Self-assessed progress based on labs, CTFs, and hands-on practice.*
+
+```text
+🕷️ Web Exploitation       [█████████░] 90%
+🌐 Network Pentesting     [████████░░] 80%
+🏴‍☠️ CTF Challenges        [█████████░] 85%
+🔍 Vulnerability Research [███████░░░] 70%
+🛡️ Defensive Awareness    [██████░░░░] 60%
+```
+
+</div>
+
 </div>
 
 ---
