@@ -124,20 +124,6 @@ I actively practice in **lab-based and CTF environments**, working across **web,
 
 ---
 
-## 🧭 Security Progress Overview
-
-> *Self-assessed progress based on labs, CTFs, and hands-on practice.*
-
-```text
-🕷️ Web Exploitation       [█████████░] 90%
-🌐 Network Pentesting     [████████░░] 80%
-🏴‍☠️ CTF Challenges        [█████████░] 85%
-🔍 Vulnerability Research [███████░░░] 70%
-🛡️ Defensive Awareness    [██████░░░░] 60%
-```
-
----
-
 📫 **Always learning. Always hacking (ethically).**
 
 <div align="center">
