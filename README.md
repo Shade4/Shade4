@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Jai+Agrawal;Cybersecurity+Student;Aspiring+Penetration+Tester;CTF+Player+%7C+Ethical+Hacker;A+Real+Superpower" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Jai+Agrawal;Cybersecurity+Student;Aspiring+Penetration+Tester;CTF+Player+%7C+Ethical+Hacker" />
 
 </div>
 
