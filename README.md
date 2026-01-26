@@ -118,7 +118,7 @@ I actively practice in **lab-based and CTF environments**, working across **web,
 
 <!-- Streak stats (stable endpoint) -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=JaiAgrawal&theme=tokyonight&hide_border=true&border_radius=10" height="170" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JaiAgrawal&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
