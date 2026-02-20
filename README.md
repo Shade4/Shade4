@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Jai Agrawal
+## - Hi, I'm Jai Agrawal
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 About Me
+## - About Me
 
 🎓 **Cybersecurity Student (India)**  
 🔐 **Aspiring Penetration Tester | Ethical Hacker**  
