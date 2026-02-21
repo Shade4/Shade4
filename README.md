@@ -99,15 +99,6 @@ I actively practice in **lab-based and CTF environments**, working across **web,
 
 ---
 
-### 🎯 Career Goals
-
-* Become a professional **Penetration Tester**
-* Specialize in **Web & Network Security**
-* Publish **CTF write-ups & security research**
-* Contribute to **open-source security projects**
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
