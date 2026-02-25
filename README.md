@@ -1,12 +1,18 @@
-## - Hi, I'm Jai Agrawal
+<div align="center">
+<h1> Hi, I'm Jai Agrawal </h1>
+</div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Jai+Agrawal;Cybersecurity+Student;Aspiring+Penetration+Tester;CTF+Player+%7C+Ethical+Hacker" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Aspiring+Penetration+Tester;CTF+Player+%7C+Ethical+Hacker" />
 
 </div>
 
 ---
+
+<div align="center">
+<img src="Images/9bc27292880429.5e569ff84e4d0.gif" width="800"/>
+</div>
 
 ## - About Me
 
