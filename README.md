@@ -121,7 +121,7 @@ I actively practice in **lab-based and CTF environments**, working across **web,
 
 ---
 
-📫 **Always learning. Always hacking (ethically).**
+📫 **Always learning. Always hacking.**
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD1&height=120&section=footer" />
