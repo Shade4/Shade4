@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Aspiring+Penetration+Tester;CTF+Player+%7C+Ethical+Hacker" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=Cybersecurity+Student+%7+CEH Certified;Penetration+Tester;CTF+Player+%7C+Ethical+Hacker" />
 
 </div>
 
