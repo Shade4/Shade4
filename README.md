@@ -1,4 +1,4 @@
-<div align="center">
+<img width="573" height="121" alt="image" src="https://github.com/user-attachments/assets/159b4096-bd3b-4592-8e71-900770a11ee8" /><div align="center">
 <h1> Hi, I'm Jai Agrawal </h1>
 </div>
 
@@ -66,19 +66,8 @@ I actively practice in **lab-based and CTF environments**, working across **web,
 ### 🧰 Security Tools
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Nmap-004d99?style=for-the-badge&logo=nmap"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge&logo=burpsuite"/>
-  <img src="https://img.shields.io/badge/Metasploit-blue?style=for-the-badge&logo=metasploit"/>
-  <img src="https://img.shields.io/badge/SQLmap-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark"/>
-</div>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Hydra-darkgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Dirb-darkred?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Gobuster-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Nikto-brown?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Wafw00f-grey?style=for-the-badge"/>
+  <img src="https://img.icons8.com/color/48/nmap.png" title="Nmap"/>
+  <img src="https://img.icons8.com/color/48/metasploit.png" title="Metasploit"/>
 </div>
 
 ---
