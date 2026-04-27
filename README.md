@@ -88,6 +88,7 @@ I actively practice in **lab-based and CTF environments**, working across **web,
 <div align="left">
   <img src="https://img.icons8.com/color/48/linux.png"/>
   <img src="https://img.icons8.com/color/48/kali-linux.png"/>
+  <img src="https://img.icons8.com/color/48/ubuntu--v1.png"/>
   <img src="https://img.icons8.com/color/48/windows-10.png"/>
   <img src="https://img.icons8.com/color/48/bash.png"/>
   <img src="https://img.icons8.com/color/48/python.png"/>
