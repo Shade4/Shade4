@@ -86,11 +86,11 @@ I actively practice in **lab-based and CTF environments**, working across **web,
 ### 💻 Systems & Scripting
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux"/>
-  <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows"/>
-  <img src="https://img.shields.io/badge/Bash-grey?style=for-the-badge&logo=gnu-bash"/>
-  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
+  <img src="https://img.icons8.com/color/48/linux.png"/>
+  <img src="https://img.icons8.com/color/48/kali-linux.png"/>
+  <img src="https://img.icons8.com/color/48/windows-10.png"/>
+  <img src="https://img.icons8.com/color/48/bash.png"/>
+  <img src="https://img.icons8.com/color/48/python.png"/>
 </div>
 
 ---
