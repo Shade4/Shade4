@@ -95,16 +95,6 @@ I actively practice in **lab-based and CTF environments**, working across **web,
 
 ---
 
-### 📚 Currently Learning
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Advanced_Web_Exploitation-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Active_Directory-darkblue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Red_Team_Basics-black?style=for-the-badge"/>
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
