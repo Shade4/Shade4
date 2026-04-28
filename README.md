@@ -66,8 +66,18 @@ I actively practice in **lab-based and CTF environments**, working across **web,
 ### 🧰 Security Tools
 
 <div align="left">
-  <img src="https://img.icons8.com/color/48/nmap.png" title="Nmap"/>
-  <img src="https://img.icons8.com/color/48/metasploit.png" title="Metasploit"/>
+<p>
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2A6EBB?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLmap-CC2927?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hydra-2ECC71?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dirb-8B0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Nikto-B22222?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WAFW00F-808080?style=for-the-badge"/>
+</p>
 </div>
 
 ---
