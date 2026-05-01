@@ -44,7 +44,7 @@ I actively practice in **lab-based and CTF environments**, working across **web,
 <div align="left">
   <img src="https://img.shields.io/badge/SQL_Injection-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/XSS-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SSRF-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Insecure_Design-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/IDOR-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Broken_Auth-grey?style=for-the-badge"/>
 </div>
