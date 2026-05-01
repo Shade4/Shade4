@@ -1,4 +1,4 @@
-<img width="573" height="121" alt="image" src="https://github.com/user-attachments/assets/159b4096-bd3b-4592-8e71-900770a11ee8" /><div align="center">
+<div align="center">
 <h1> Hi, I'm Jai Agrawal </h1>
 </div>
 
