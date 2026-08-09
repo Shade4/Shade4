@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 760 260" width="760" height="260">
+  <defs>
+    <clipPath id="term-clip">
+      <rect x="1" y="1" width="758" height="258" rx="12" ry="12"/>
+    </clipPath>
+  </defs>
+
+  <!-- window body -->
+  <rect x="1" y="1" width="758" height="258" rx="12" ry="12" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+
+  <!-- title bar -->
+  <rect x="0" y="0" width="760" height="34" fill="#161b22" clip-path="url(#term-clip)"/>
+  <circle cx="22" cy="17" r="6" fill="#ff5f56"/>
+  <circle cx="42" cy="17" r="6" fill="#ffbd2e"/>
+  <circle cx="62" cy="17" r="6" fill="#27c93f"/>
+  <text x="380" y="21" text-anchor="middle" font-family="'Fira Code', 'Courier New', monospace" font-size="13" fill="#8b949e">jai@kali: ~</text>
+  <line x1="0" y1="34" x2="760" y2="34" stroke="#30363d" stroke-width="1"/>
+
+  <!-- typed lines, looping -->
+  <g font-family="'Fira Code', 'Courier New', monospace" font-size="17">
+
+    <path id="p0">
+      <animate id="d0" attributeName="d" begin="0s;d4.end" dur="2400ms" fill="remove"
+        values="m0,80 h0 ; m0,80 h700 ; m0,80 h700 ; m0,80 h0" keyTimes="0;0.75;0.85;1"/>
+    </path>
+    <text x="24" y="80" fill="#00FFD1"><textPath xlink:href="#p0">jai@kali:~$ whoami</textPath></text>
+
+    <path id="p1">
+      <animate id="d1" attributeName="d" begin="d0.end" dur="2400ms" fill="remove"
+        values="m0,114 h0 ; m0,114 h700 ; m0,114 h700 ; m0,114 h0" keyTimes="0;0.75;0.85;1"/>
+    </path>
+    <text x="24" y="114" fill="#c9d1d9"><textPath xlink:href="#p1">cybersecurity student · ctf player</textPath></text>
+
+    <path id="p2">
+      <animate id="d2" attributeName="d" begin="d1.end" dur="2400ms" fill="remove"
+        values="m0,148 h0 ; m0,148 h700 ; m0,148 h700 ; m0,148 h0" keyTimes="0;0.75;0.85;1"/>
+    </path>
+    <text x="24" y="148" fill="#00FFD1"><textPath xlink:href="#p2">jai@kali:~$ nmap -sV target.local</textPath></text>
+
+    <path id="p3">
+      <animate id="d3" attributeName="d" begin="d2.end" dur="2400ms" fill="remove"
+        values="m0,182 h0 ; m0,182 h700 ; m0,182 h700 ; m0,182 h0" keyTimes="0;0.75;0.85;1"/>
+    </path>
+    <text x="24" y="182" fill="#c9d1d9"><textPath xlink:href="#p3">[+] 3 open ports found</textPath></text>
+
+    <path id="p4">
+      <animate id="d4" attributeName="d" begin="d3.end" dur="2400ms" fill="remove"
+        values="m0,216 h0 ; m0,216 h700 ; m0,216 h700 ; m0,216 h0" keyTimes="0;0.75;0.85;1"/>
+    </path>
+    <text x="24" y="216" fill="#00FFD1"><textPath xlink:href="#p4">jai@kali:~$ echo $FOCUS</textPath></text>
+
+  </g>
+
+  <!-- persistent blinking cursor, bottom-right -->
+  <text x="720" y="240" text-anchor="end" font-family="'Fira Code', 'Courier New', monospace" font-size="17" fill="#00FFD1">
+    _
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </text>
+</svg>
